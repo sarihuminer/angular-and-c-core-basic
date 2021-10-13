@@ -1,0 +1,17 @@
+C:\Users\sari\Documents\tel-aviv-test\server\server\bin\Debug\netcoreapp2.1\server.deps.json
+C:\Users\sari\Documents\tel-aviv-test\server\server\bin\Debug\netcoreapp2.1\server.runtimeconfig.json
+C:\Users\sari\Documents\tel-aviv-test\server\server\bin\Debug\netcoreapp2.1\server.runtimeconfig.dev.json
+C:\Users\sari\Documents\tel-aviv-test\server\server\bin\Debug\netcoreapp2.1\server.dll
+C:\Users\sari\Documents\tel-aviv-test\server\server\bin\Debug\netcoreapp2.1\server.pdb
+C:\Users\sari\Documents\tel-aviv-test\server\server\obj\Debug\netcoreapp2.1\server.csprojAssemblyReference.cache
+C:\Users\sari\Documents\tel-aviv-test\server\server\obj\Debug\netcoreapp2.1\server.csproj.CoreCompileInputs.cache
+C:\Users\sari\Documents\tel-aviv-test\server\server\obj\Debug\netcoreapp2.1\server.RazorAssemblyInfo.cache
+C:\Users\sari\Documents\tel-aviv-test\server\server\obj\Debug\netcoreapp2.1\server.RazorAssemblyInfo.cs
+C:\Users\sari\Documents\tel-aviv-test\server\server\obj\Debug\netcoreapp2.1\server.AssemblyInfoInputs.cache
+C:\Users\sari\Documents\tel-aviv-test\server\server\obj\Debug\netcoreapp2.1\server.AssemblyInfo.cs
+C:\Users\sari\Documents\tel-aviv-test\server\server\obj\Debug\netcoreapp2.1\server.RazorTargetAssemblyInfo.cache
+C:\Users\sari\Documents\tel-aviv-test\server\server\obj\Debug\netcoreapp2.1\server.dll
+C:\Users\sari\Documents\tel-aviv-test\server\server\obj\Debug\netcoreapp2.1\server.pdb
+C:\Users\sari\Documents\tel-aviv-test\server\server\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\sari\Documents\tel-aviv-test\server\server\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\sari\Documents\tel-aviv-test\server\server\obj\Debug\netcoreapp2.1\server.genruntimeconfig.cache
